@@ -71,7 +71,9 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
-
+#textalign{
+	text-align: center;
+}
 /* Basic */
 
 	html {
